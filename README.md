@@ -5,7 +5,9 @@ I turn operational problems into AI workflows and software that teams use every 
 
 I am CPTO at Heart Milan Apartments, leading product and technology across 82 luxury apartments in Milan. Previously, I progressed from Property Manager to COO at Xenia Milano, working alongside the founders as the portfolio grew from 10 to 120+ apartments.
 
-[LinkedIn](https://www.linkedin.com/in/alessandrokeijock/) · [Website](https://www.alessandrokey.com/) · [New portfolio](https://alessandro-keijock-systems.firepie6.chatgpt.site/) · [Download CV](website/Alessandro-Keijock-CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/alessandrokeijock/) · [Website](https://www.alessandrokey.com/) · [Private site preview — owner access](https://alessandro-keijock-systems.firepie6.chatgpt.site/) · [Download CV](website/Alessandro-Keijock-CV.pdf)
+
+![Portfolio website](assets/portfolio-desktop.jpg)
 
 ## Selected work
 
