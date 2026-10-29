@@ -37,7 +37,7 @@ The diagram describes the normal flow and the intended escalation route. It is n
 | Observation | Scope and interpretation |
 | --- | --- |
 | 47 live requests without reported corrective intervention | Initial operational checkpoint; no independent reliability audit or published event-level dataset |
-| Approximately 30 minutes of manual handling per request | Pre-build staff survey estimate; not measured time savings |
+| Approximately 30 minutes per request in an early estimate | Staff discussion and message timing; the method mixed waiting intervals with assumed writing time. Not measured active handling or time savings |
 | Approximately 70% of guest-related chats automated after six months | Internal figure for the broader HMA deployment; not attributable solely to maintenance |
 | Eight receptionists supported | Broader routine guest-service workflow scope |
 

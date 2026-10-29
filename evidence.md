@@ -7,7 +7,7 @@ This page separates professional/project descriptions from what can be inspected
 | HMA product and technology scope across 82 apartments | Project-owner account and professional profile; case study | Employer confirmation and underlying operating records |
 | Approximately 70% of guest-related chats automated at six months | Internal operating figure reported by the owner | Source analytics, definition of automation, denominator and date-range export |
 | 47 maintenance requests without reported corrective intervention | Initial operating checkpoint reported by the owner | Event-level records and independent review; no 100% reliability claim |
-| Approximately 30 minutes per manual maintenance request | Pre-build staff survey estimate | Timed active-handling study; not measured savings |
+| Approximately 30 minutes per maintenance request in an early estimate | Staff discussion and message timing; waiting intervals were mixed with assumed writing time | Timed active-handling study; not measured effort or savings |
 | Xenia growth from 10 to 120+ apartments and EUR 2M+ annual revenue by year two | Company milestones reported during the owner's tenure | Independent financial/portfolio records and causal attribution of individual contribution |
 | Brain's approximately 14,000 notes and archive scale | Project-owner-reported counts and conceptual architecture | Personal archive, original implementation and retrieval-quality benchmark |
 | Auto-Flip's research pipeline | Project description and conceptual architecture | Original implementation, test suite and realized purchase/profit outcomes |
