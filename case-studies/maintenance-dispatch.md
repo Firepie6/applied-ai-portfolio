@@ -58,3 +58,7 @@ The reported checkpoint should not be interpreted as 100% reliability, measured 
 5. Compare similar properties in the same period to assess the effect on staff time and guest outcomes.
 
 These are evaluation proposals rather than completed studies. No guest data, proprietary configuration or original platform code is included.
+
+## Inspect a separate reference implementation
+
+The portfolio now includes a [Maintenance Workflow Lab](../reference-lab.md). It demonstrates explicit staff authorization, assignment checks, event replay handling and optimistic revisions using synthetic structured cases. Its source and tests are public. This is a newly built reference artifact; it does not establish those controls in the original HMA platform.
